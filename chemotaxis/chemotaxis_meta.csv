@@ -1,0 +1,15 @@
+condition,compound,diluted,shortname
+1:2000 diacetyl,Diacetyl,TRUE,DA
+1:1000 pyrazine,Pyrazine,TRUE,PZ
+"1:2000 2, 4, 5-trimethylthiazole","2, 4, 5-trimethylthiazole",TRUE,TMT
+1:200 isoamyl alcohol,Isoamyl alcohol,TRUE,IAA
+1:1000 benzaldehyde,Benzaldehyde,TRUE,BZ
+1:10000 2-butanone,2-bonanone,TRUE,BU
+"1:10000 2,3-pentanedione","2, 3-pentanedione",TRUE,PD
+undiluted diacetyl,Diacetyl,FALSE,DA
+"undiluted 2, 4, 5-trimethylthiazole","2, 4, 5-trimethylthiazole",FALSE,TMT
+undiluted isoamyl alcohol,Isoamyl alcohol,FALSE,IAA
+undiluted benzaldehyde,Benzaldehyde,FALSE,BZ
+"undiluted 2, 3-pentanedione","2, 3-pentanedione",FALSE,PD
+undiluted 2-nonanone,2-nonanone,FALSE,NON
+undiluted 1-octanol,1-octanol,FALSE,OCT

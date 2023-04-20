@@ -1,0 +1,321 @@
+ccid,genes,avoidance_index_change,occupancy_change,survival_change_2
+CHS 1001,srh-99(yum1120); srh-100(yum1121),-0.01,0.13,0.12
+CHS 1002,srh-105(yum1122); srh-109(yum1123); srh-111(yum1124),0.06,-0.62,0.15
+CHS 1003,srh-105(yum1122); srh-109(yum1123); srh-111(yum1124); srh-102(yum1125); srh-104(yum1126),-0.05,0.50,0.02
+CHS 1004,srh-141(yum1127); srh-142(yum1128); srh-145(yum1129),0.02,-0.11,0.06
+CHS 1005,srh-146(yum1130); srh-147(yum1131); srh-148(yum1132),0.07,-0.65,0.01
+CHS 1006,srh-190(yum1133); srh-192(yum1134); srh-193(yum1135),0.02,-0.17,0.11
+CHS 1007,srh-203(yum1136); srh-204(yum1137); srh-206(yum1138),0.04,-0.49,0.03
+CHS 1008,srh-212(yum1139); srh-213(yum1140); srh-218(yum1141),-0.09,1.50,-0.04
+CHS 1009,srh-295(yum1142); srh-296(yum1143); srh-297(yum1144),-0.05,0.45,0.14
+CHS 1010,str-112(yum1145); str-113(yum1146); str-114(yum1147); str-115(yum1148); str-116(yum1149); str-118(yum1150),-0.01,0.16,0.09
+CHS 1011,sri-1(yum1151); sri-2(yum1152); sri-4(yum1153),-0.05,1.20,0.10
+CHS 1012,srbc-61(yum1154); srbc-62(yum1155); srbc-63(yum1156); srbc-65(yum1157),0.03,-0.04,0.04
+CHS 1013,sro-1(yum1158),-0.01,-0.03,0.05
+CHS 1014,sru-7(yum1159); sru-44(yum1160); sru-45(yum1161); c45h4.18(yum1162); sru-47(yum1163); sru-48(yum1164),-0.05,0.53,0.04
+CHS 1015,gar-1(yum1165); gar-2(yum1166); gar-3(yum1167),0.05,-0.11,-0.09
+CHS 1016,gbb-1(yum1168); gbb-2(yum1169),-0.02,0.11,0.08
+CHS 1017,f57a8.4(yum1170); y40c5a.4(yum1171); c47e8.3(yum1172),-0.09,2.52,-0.12
+CHS 1018,y37e11al.1(yum1173); f56a11.4(yum1174); b0034.5(yum1175),0.00,0.37,0.07
+CHS 1019,h09f14.1(yum1176); f16c3.1(yum1177); c24b5.1(yum1178),-0.07,1.00,0.08
+CHS 1020,r13h7.2(yum1030); k03h6.5(yum1031); k03h6.1(yum1032); t10e10.3(yum1033),-0.35,4.80,-0.18
+CHS 1021,f40a3.7(yum1179); f59b2.13(yum1180); w10c4.1(yum1181); d1014.2(yum1182),-0.24,4.56,-0.37
+CHS 1022,srg-2(yum1183); srg-5(yum1184); srg-6(yum1185); srg-7(yum1186); srg-8(yum1187); srg-9(yum1188),-0.11,2.33,-0.06
+CHS 1023,srx-44(yum1189); srx-45(yum1190); srx-46(yum1191); srx-47(yum1192),0.06,-0.50,0.10
+CHS 1024,pdfr-1(yum1024); seb-2(yum1025); seb-3(yum1026),-0.54,10.09,-0.27
+CHS 1025,frpr-7(yum1193); frpr-8(yum1194); frpr-9(yum1195); frpr-10(yum1196),0.01,-0.06,0.29
+CHS 1026,frpr-13(yum1197); frpr-15(yum1198); frpr-19(yum1199),0.02,0.24,0.01
+CHS 1027,srj-18(yum1200); srj-19(yum1201); srj-20(yum1202); srj-22(yum1203); srj-23(yum1204); srj-24(yum1205),-0.09,2.52,0.00
+CHS 1028,srj-7(yum1206); srj-8(yum1207); srj-9(yum1208); srj-10(yum1209); srj-11(yum1210) ; srj-13(yum1211); srj-14(yum1212); srj-15(yum1213),-0.03,0.32,0.04
+CHS 1029,sru-29(yum1215); sru-30(yum1216); sru-31(yum1217); sru-35(yum1218); sru-36(yum1219),0.04,-0.34,0.00
+CHS 1030,str-145(yum1221); str-146(yum1222); str-148(yum1223); str-141(yum1224); str-149(yum1225); str-150(yum1226); str-151(yum1227),-0.02,0.83,0.01
+CHS 1031,sri-27(yum1228); sri-28(yum1229); sri-29(yum1230); sri-30(yum1231); sri-31(yum1232); sri-24(yum1233); sri-25(yum1234); sri-26(yum1235); t10d4.14(yum1236),-0.01,0.09,-0.16
+CHS 1032,srw-115(yum1237); srw-117(yum1238); srw-118(yum1239); srw-119(yum1240); srw-120(yum1241); srw-121(yum1242); srw-122(yum1243); srw-123(yum1244); srw-124(yum1245); srw-135(yum1246); srw-137(yum1247); srw-138(yum1248),-0.10,2.57,-0.08
+CHS 1033,srh-127(yum1249); srh-211(yum1250); srh-214(yum1251); srh-215(yum1252);  srh-216(yum1253); srh-217(yum1254); srh-212(yum1255); srh-213(yum1256); srh-218(yum1257); srh-219(yum1258),-0.01,2.10,-0.11
+CHS 1034,srg-56(yum1259); srg-57(yum1260); srg-58(yum1261); srg-59(yum1262); srg-60(yum1263); srg-61(yum1264); srg-62(yum1265); srg-64(yum1266); srg-65(yum1267); srg-66(yum1268); srg-67(yum1269); srg-68(yum1270),-0.03,0.40,0.00
+CHS 1035,str-153(yum1271); str-155(yum1272); str-162(yum1273); str-168(yum1274); str-156(yum1275); str-158(yum1276); str-159(yum1277); str-160(yum1278); str-161(yum1279); str-154(yum1280); str-267(yum1281),0.04,-0.50,0.14
+CHS 1036,srh-61(yum1282); srh-62(yum1283); srh-63(yum1284); srh-67(yum1285); srh-68(yum1286); srh-69(yum1287); srh-70(yum1288); srh-71(yum1289); srh-72(yum1290); srh-73(yum1291),-0.03,1.67,-0.12
+CHS 1037,srd-60(yum1292); srd-73(yum1293); srd-61(yum1294); srd-75(yum1295); srd-71(yum1296); srd-72(yum1297),-0.05,2.17,0.07
+CHS 1038,srt-6(yum1298); srt-7(yum1299); srt-8(yum1300); srt-11(yum1301); srt-12(yum1302); srt-13(yum1303); srt-14(yum1304); srt-1(yum1306); srt-2(yum1307); srt-3(yum1308); srt-4(yum1309); srt-5(yum1310),-0.07,1.66,-0.02
+CHS 1039,sre-43(yum1311); sre-44(yum1312); sre-45(yum1313); sre-46(yum1314); sre-47(yum1315); sre-48(yum1316),-0.02,0.89,-0.02
+CHS 1040,nmur-1(yum1317); nmur-2(yum1318); nmur-3(yum1319); nmur-4(yum1320),-0.06,1.59,0.52
+CHS 1041,frpr-3(yum1321); frpr-4(yum1322); frpr-16(yum1323); frpr-18(yum1324),-0.04,1.05,0.05
+CHS 1042,srh-89(yum1325); srh-92(yum1326); srh-95(yum1327); srh-97(yum1328); srh-98(yum1329),0.07,-0.70,0.10
+CHS 1043,srh-39(yum1330); srh-40(yum1331); srh-41(yum1332); srh-42(yum1333); srh-44(yum1334); srh-45(yum1335),0.02,0.21,0.08
+CHS 1044,srh-220(yum1336); srh-222(yum1337); srh-223(yum1338); srh-227(yum1339); srh-228(yum1340); srh-229(yum1341),0.05,-0.83,0.02
+CHS 1045,srh-48(yum1342); srh-49(yum1343); srh-50(yum1344); srh-51(yum1345); srh-52(yum1346); srh-55(yum1347),-0.03,1.26,0.05
+CHS 1046,str-52(yum1348); str-55(yum1349); str-56(yum1350); str-57(yum1351),-0.06,0.89,0.07
+CHS 1047,srh-33(yum1352); srh-34(yum1353); srh-35(yum1354); srh-36(yum1355); srh-37(yum1356); srh-38(yum1357),-0.05,0.47,0.13
+CHS 1048,str-238(yum1358); str-240(yum1359); str-243(yum1360); str-244(yum1361); str-245(yum1362),-0.01,0.82,-0.11
+CHS 1049,str-176(yum1363); str-177(yum1364); str-178(yum1365); str-180(yum1366); str-181(yum1367); str-182(yum1368),-0.05,1.14,0.03
+CHS 1050,srxa-8(yum1369); srxa-9(yum1370); srxa-10(yum1371); srxa-11(yum1372); srxa-19(yum1373),-0.02,0.87,0.12
+CHS 1051,srw-51(yum1374); srw-53(yum1375); srw-54(yum1376); srw-55(yum1377); t27c5.10(yum1378); y70c5a.4(yum1379),0.03,-0.23,0.07
+CHS 1052,sre-13(yum1380); sre-14(yum1381); sre-15(yum1382); sre-16(yum1383); sre-18(yum1384); sre-19(yum1385),-0.02,0.81,0.14
+CHS 1053,t26h8.4(yum1386); c29f9.8(yum1387); y75b12b.10(yum1388),0.01,0.33,-0.06
+CHS 1054,srd-17(yum1389); srd-18(yum1390); srd-19(yum1391); srd-20(yum1392); srd-21(yum1393); srd-32(yum1394),0.07,-0.69,-0.05
+CHS 1055,str-250(yum1395); str-252(yum1396); str-253(yum1397),-0.07,1.98,0.00
+CHS 1056,sre-1(yum1398); sre-2(yum1399); sre-3(yum1400); sre-4(yum1401); sre-5(yum1402); sre-6(yum1403),-0.02,-0.19,0.03
+CHS 1057,npr-1(yum1034),-0.94,17.99,-0.33
+CHS 1058,npr-9(yum1404); npr-11(yum1405); npr-12(yum1406),-0.14,2.97,-0.04
+CHS 1059,sru-37(yum1407); sru-38(yum1408); sru-39(yum1409); sru-44(yum1410); sru-45(yum1411); c45h4.18(yum1412),-0.03,1.00,0.11
+CHS 1060,srx-12(yum1413); srx-13(yum1414); srx-14(yum1415); srx-33(yum1416); srx-34(yum1417); srx-36(yum1418),0.04,-0.32,0.02
+CHS 1061,tkr-1(yum1419); tkr-2(yum1420); tkr-3(yum1421),-0.09,1.47,-0.01
+CHS 1062,npr-6(yum1027); npr-7(yum1028); npr-8(yum1029),0.02,-0.11,-0.37
+CHS 1063,npr-13(yum1422); npr-14(yum1423); npr-15(yum1424),0.00,0.40,0.08
+CHS 1064,npr-18(yum1425); npr-20(yum1426); npr-21(yum1427),-0.05,1.91,-0.11
+CHS 1065,npr-25(yum1428); npr-26(yum1429); npr-27(yum1430),0.08,-0.67,0.15
+CHS 1066,srj-1(yum1431); srj-4(yum1432); srj-5(yum1433); srj-6(yum1434),0.06,-0.34,0.08
+CHS 1067,str-96(yum1435); str-97(yum1436); str-99(yum1437); str-101(yum1438); str-102(yum1439); str-103(yum1440),-0.05,1.50,0.11
+CHS 1068,sri-18(yum1441); sri-19(yum1442); sri-20(yum1443); sri-21(yum1444); sri-5(yum1445),-0.07,0.63,0.00
+CHS 1069,npr-31(yum1446); npr-32(yum1447); npr-33(yum1448),-0.02,0.12,0.05
+CHS 1070,sru-9(yum1449); sru-11(yum1450); sru-12(yum1451); sru-13(yum1452); sru-15(yum1453); sru-40(yum1454),-0.05,0.46,-0.08
+CHS 1071,sra-1(yum1455); sra-10(yum1456); sra-11(yum1457); sra-12(yum1458); sra-13(yum1459); sra-14(yum1460),0.06,-0.51,-0.06
+CHS 1072,npr-16(yum1461); npr-17(yum1462); npr-18(yum1463),-0.02,0.26,0.07
+CHS 1073,srt-1(yum1464); srt-2(yum1465); srt-3(yum1466),0.01,-0.12,-0.09
+CHS 1074,srxa-1(yum1467); srxa-2(yum1468); srxa-4(yum1469); srxa-5(yum1470); srxa-6(yum1471); srxa-7(yum1472),-0.05,1.76,0.00
+CHS 1075,str-163(yum1473); str-164(yum1474); str-165(yum1475); str-166(yum1476); str-169(yum1477),0.02,-0.24,-0.06
+CHS 1076,ntr-1(yum1478); ntr-2(yum1479),-0.06,1.88,-0.09
+CHS 1077,srz-74(yum1480); srz-75(yum1481); srz-78(yum1482); srz-79(yum1483); srz-82(yum1484); srz-83(yum1485),-0.02,0.88,0.11
+CHS 1078,str-71(yum1486); str-73(yum1487); str-74(yum1488),-0.05,1.14,0.01
+CHS 1079,npr-22(yum1489); npr-24(yum1490); npr-34(yum1491); npr-35(yum1492),-0.09,2.50,-0.04
+CHS 1080,npr-28(yum1493); npr-29(yum1494); npr-30(yum1495),-0.02,0.10,-0.08
+CHS 1081,sra-27(yum1496); sra-28(yum1497); sra-29(yum1498); sra-30(yum1499); sra-31(yum1500); sra-32(yum1501),0.02,-0.16,-0.03
+CHS 1082,sprr-1(yum1502); sprr-2(yum1503); sprr-3(yum1504),-0.04,0.32,0.01
+CHS 1083,ckr-1(yum1505); ckr-2(yum1506),0.08,-0.48,0.08
+CHS 1084,frpr-5(yum1507); frpr-6(yum1508); frpr-11(yum1509); frpr-12(yum1510),0.04,0.00,0.14
+CHS 1085,daf-37(yum1511); daf-38(yum1512),-0.02,0.22,-0.01
+CHS 1086,ser-1(yum1513); ser-4(yum1514); ser-5(yum1515); ser-7(yum1516),0.00,-0.11,0.07
+CHS 1087,octr-1(yum1517); ser-3(yum1518); ser-6(yum1519),0.02,-0.17,0.11
+CHS 1088,ser-2(yum1520); tyra-2(yum1521); tyra-3(yum1522),0.06,-0.50,-0.01
+CHS 1089,egl-6(yum1523),0.00,0.00,-0.09
+CHS 1090,ador-1(yum1524),0.04,-0.43,0.05
+CHS 1091,mig-1(yum1525); cfz-2(yum1526),0.00,0.07,0.11
+CHS 1092,srsx-35(yum1527); srsx-36(yum1528); srsx-37(yum1529); srsx-38(yum1530); srsx-39(yum1531); srsx-40(yum1532),-0.03,1.75,0.09
+CHS 1093,sre-37(yum1533); sre-41(yum1534); sre-42(yum1535); sre-38(yum1536); sre-39(yum1537); sre-40(yum1538),0.06,0.94,-0.04
+CHS 1094,srh-283(yum1539); srh-284(yum1540); srh-286(yum1541); srh-277(yum1542),0.00,0.07,-0.05
+CHS 1095,srbc-12(yum1543); srbc-13(yum1544); srbc-14(yum1545); srbc-16(yum1546); srbc-17(yum1547); srbc-19(yum1548); srbc-20(yum1549),0.02,-0.15,0.00
+CHS 1096,srg-38(yum1550); srg-54(yum1551); srg-55(yum1552); srg-69(yum1553); srg-3(yum1554); srg-4(yum1555),0.02,0.55,-0.09
+CHS 1097,srg-31(yum1556); srg-32(yum1557); srg-33(yum1558); srg-34(yum1559); srg-36(yum1560); srg-37(yum1561),-0.03,1.33,-0.06
+CHS 1098,str-10(yum1562); str-12(yum1563); str-13(yum1564); str-106(yum1565); str-108(yum1566); str-109(yum1567); str-111(yum1568); f10a3.12(yum1569); k05d4.9(yum1570),-0.01,0.82,-0.04
+CHS 1099,srh-56(yum1571); srh-59(yum1572); srh-60(yum1573); srh-305(yum1574); srh-57(yum1575),-0.01,0.48,-0.01
+CHS 1100,sre-29(yum1576); sre-30(yum1577); sre-31(yum1578); sre-34(yum1579); sre-35(yum1580); sre-36(yum1581),0.06,-0.47,0.11
+CHS 1101,sra-17(yum1582); sra-18(yum1583); sra-20(yum1584); sra-21(yum1585); sra-22(yum1586); sra-23(yum1587); sra-24(yum1588); sra-25(yum1589); sra-26(yum1590),0.01,1.20,0.45
+CHS 1102,b0244.10(yum1591); b0244.15(yum1592); b0244.16(yum1593); b0244.17(yum1594); b0244.4(yum1595); b0244.5(yum1596); b0244.7(yum1597),-0.05,1.13,0.04
+CHS 1103,fmi-1(yum1598); lat-2(yum1599); mth-1(yum1600); mth-2(yum1601),-0.46,3.80,0.28
+CHS 1104,srv-5(yum1602); srv-6(yum1603); srv-7(yum1604); srv-8(yum1605); srv-9(yum1606); srv-10(yum1607); c34b4.3(yum1608); b0563.6(yum1609),0.00,0.04,-0.06
+CHS 1105,srab-6(yum1610); srab-7(yum1611); srab-8(yum1612); srab-9(yum1613); srab-10(yum1614); srab-11(yum1615); srab-20(yum1616); srab-21(yum1617); srab-22(yum1618),-0.04,0.41,-0.05
+CHS 1106,srj-33(yum1619); srj-37(yum1620); srj-38(yum1621); srj-39(yum1622); srj-40(yum1623); srj-42(yum1624); srj-44(yum1625); srj-45(yum1626); srj-49(yum1627); srj-50(yum1628); srj-52(yum1629); srj-53(yum1630); srj-54(yum1631); srj-55(yum1632); srj-57(yum1633),0.07,-0.59,0.11
+CHS 1107,srx-19(yum1634); srx-24(yum1635); srx-26(yum1636); srx-28(yum1637); srx-29(yum1638); srx-31(yum1639); srx-32(yum1640),0.06,-0.48,0.05
+CHS 1108,srr-7(yum1641); srr-8(yum1642); srr-9(yum1643); srr-10(yum1644),-0.03,0.30,-0.10
+CHS 1109,frpr-1(yum1645); frpr-2(yum1646); frpr-14(yum1647); frpr-17(yum1648),0.00,-0.02,-0.05
+CHS 1110,srt-63(yum1649); srt-64(yum1650); srt-65(yum1651); srt-67(yum1652); srt-68(yum1653); srt-69(yum1654); srt-70(yum1655),-0.02,0.55,-0.05
+CHS 1111,srsx-14(yum1656); srsx-15(yum1657); srsx-16(yum1658); srsx-17(yum1659); srsx-18(yum1660); srsx-19(yum1661),0.06,-0.43,0.01
+CHS 1112,srz-58(yum1662); srz-59(yum1663); srz-60(yum1664); srz-61(yum1665); srz-62(yum1666); srz-85(yum1667),0.04,-0.31,-0.11
+CHS 1113,srw-16(yum1668); srw-17(yum1669); srw-19(yum1670); srw-20(yum1671); srw-21(yum1672); srw-22(yum1673),0.10,-0.71,0.01
+CHS 1114,srw-108(yum1674); srw-111(yum1675); srw-112(yum1676); srw-113(yum1677); m01g12.6(yum1678),-0.02,0.12,0.01
+CHS 1115,srg-11(yum1679); srg-14(yum1680); srg-15(yum1681); srg-16(yum1682); srg-17(yum1683); srg-1(yum1684),-0.04,1.05,0.04
+CHS 1116,srr-1(yum1685); srr-2(yum1686); srr-3(yum1687); srr-4(yum1688); srr-6(yum1689),0.04,-0.34,0.11
+CHS 1117,srbc-54(yum1690); srbc-55(yum1691); srbc-56(yum1692); srbc-57(yum1693); srbc-66(yum1694),0.06,-0.48,-0.01
+CHS 1118,sre-50(yum1695); sre-52(yum1696); sre-53(yum1697); sre-54(yum1698); sre-55(yum1699); sre-56(yum1700),-0.03,0.67,0.01
+CHS 1119,gur-4(yum1701); gur-5(yum1702),-0.02,1.25,0.09
+CHS 1120,c01f1.4(yum1703); f10d7.1(yum1704); tag-89(yum1705); fshr-1(yum1706); pcdr-1(yum1707 ),-0.11,2.42,-0.22
+CHS 1121,npr-19(yum1708); npr-23(yum1709); zk813.5(yum1710); h23l24.4(yum1711); t02d1.4(yum1712),-0.02,0.24,-0.11
+CHS 1122,srz-104(yum1713); srz-105(yum1714); srz-69(yum1715); srz-70(yum1716); srz-71(yum1717),0.00,-0.09,0.01
+CHS 1123,srd-33(yum1718); srd-34(yum1719); srd-35(yum1720); srd-36(yum1721); srd-38(yum1722); srd-39(yum1723),0.09,-0.68,-0.07
+CHS 1124,t06e4.7(yum1724); y77e11a.16(yum1725); y32h12a.1(yum1726); zk6.6(yum1728),0.04,-0.37,0.11
+CHS 1125,f52d10.4(yum1729); f56a12.2(yum1730); m04g7.3(yum1731); ah9.4(yum1732); f54e4.2(yum1733),0.06,-0.46,-0.03
+CHS 1126,dmsr-1(yum1734); dmsr-2(yum1735); dmsr-3(yum1736); dmsr-8(yum1737),-0.03,0.40,-0.06
+CHS 1127,dmsr-4(yum1738); dmsr-5(yum1739); dmsr-6(yum1740); dmsr-7(yum1741); dmsr-8(yum1742),-0.25,1.41,-0.18
+CHS 1128,srg-39(yum1743); srg-40(yum1744); srg-41(yum1745); srg-42(yum1746); srg-44(yum1747); srg-45(yum1748),-0.05,0.55,-0.07
+CHS 1129,srt-54(yum1749); srt-55(yum1750); srt-56(yum1751); srt-61(yum1752); srt-62(yum1753); srt-73(yum1754); f49d11.11(yum1755),0.02,-0.25,0.05
+CHS 1130,srz-25(yum1757); srz-29(yum1758); srz-31(yum1759); srz-32(yum1760); srz-37(yum1761); srz-38(yum1762); srz-72(yum1762),-0.05,1.49,-0.07
+CHS 1131,lite-1(yum1763); gur-3(yum1764); egl-47(yum1765),-0.07,1.62,-0.10
+CHS 1132,srh-250(yum1766); srh-251(yum1767); srh-252(yum1768); srh-255(yum1769); srh-247(yum1770); srh-248(yum1771),0.06,-0.45,-0.09
+CHS 1133,srx-38(yum1772); srx-39(yum1773); srx-41(yum1774); c03g6.21(yum1775); srx-42(yum1776); srx-43(yum1777); fbxa-199(yum1778),0.00,0.03,-0.05
+CHS 1134,srj-21(yum1779); srj-25(yum1780); srj-26(yum1781); srj-27(yum1782); srj-29(yum1783); srj-32(yum1784),-0.13,2.37,-0.09
+CHS 1135,srx-1(yum1785); srx-2(yum1786); srx-3(yum1787); srx-4(yum1788),0.02,-0.21,0.07
+CHS 1136,srz-42(yum1789); srz-44(yum1790); srz-47(yum1791); srz-48(yum1792); srz-54(yum1793); srz-56(yum1794),0.02,0.50,0.13
+CHS 1137,srsx-8(yum1795); srsx-9(yum1796); srsx-10(yum1797); srsx-11(yum1798); srsx-12(yum1799); srsx-13(yum1800),-0.01,1.23,0.05
+CHS 1138,srsx-31(yum1801); srsx-32(yum1802); srsx-33(yum1803); srsx-34(yum1804); f54e2.9(yum1805); f54e2.5(yum1806); t09e8.4(yum1807),-0.04,0.31,0.05
+CHS 1139,srz-16(yum1808); srz-18(yum1809); srz-19(yum1810); srz-20(yum1811); srz-23(yum1813); srz-24(yum1812),0.02,-0.16,0.07
+CHS 1140,srw-72(yum1814); srw-76(yum1816); srw-77(yum1817); srw-79(yum1818); srw-82(yum1819); srw-83(yum1820),0.02,-0.18,0.12
+CHS 1141,srx-101(yum1821); srx-102(yum1822); srx-104(yum1823); srx-105(yum1824); srx-108(yum1825); srx-110(yum1826); srx-111(yum1827); srx-112(yum1828); srx-113(yum1829),0.01,-0.16,0.02
+CHS 1142,c04c3.6(yum1830); zk863.1(yum1831); c50h11.13(yum1832); c54e10.3(yum1833); t01b11.1(yum1834); c04c3.7(yum1835),-0.01,0.00,0.01
+CHS 1143,srab-12(yum1836); srab-14(yum1837); srab-16(yum1838); srab-17(yum1839); srab-18(yum1840); srab-24(yum1841); srab-25(yum1842); srab-26(yum1843),0.03,-0.56,-0.01
+CHS 1144,b0563.6(yum1844); ah9.1(yum1845); y70d2a.1(yum1846); c17h11.1(yum1847);  ah9.4(yum1848),-0.03,0.71,0.00
+CHS 1145,srab-1(yum1849); srab-2(yum1850); srab-3(yum1851); srab-4(yum1852); srab-13(yum1853); srab-23(yum1854); y41d4b.1(yum1855); k08b5.1(yum1856),0.04,-0.20,-0.01
+CHS 1146,srx-48(yum1857); srx-50(yum1858); srx-51(yum1859); srx-54(yum1860); srx-59(yum1862); srx-64(yum1863),-0.06,1.74,0.11
+CHS 1147,srx-5(yum1864); srx-6(yum1865); srx-7(yum1866); srx-8(yum1867); srx-9(yum1868); srx-10(yum1869),-0.03,0.88,0.09
+CHS 1148,t04f8.2(yum1870); c15a7.2(yum1871); f39b2.8(yum1872); fmil-1(yum1873),-0.05,0.95,-0.02
+CHS 1149,srh-1(yum1874); srh-2(yum1875); srh-3(yum1876); srh-4(yum1877); srh-5(yum1878); srh-7(yum1879); srh-8(yum1880),0.01,-0.25,0.11
+CHS 1150,srh-125(yum1881); srh-269(yum1882); srh-270(yum1883); srh-271(yum1884); srh-272(yum1885); srh-274(yum1886),-0.04,0.98,0.14
+CHS 1151,srh-274(yum1887); srh-275(yum1888); srh-276(yum1889); srh-277(yum1890); srh-279(yum1891);  srh-281(yum1892); srh-282(yum1893),-0.01,-0.05,-0.11
+CHS 1152,srbc-50(yum1894); srbc-51(yum1895); srbc-67(yum1896); srbc-68(yum1897); srbc-70(yum1898); srbc-71(yum1899),-0.03,0.08,-0.05
+CHS 1153,srsx-21(yum1900); srsx-22(yum1901); srsx-24(yum1902); srsx-25(yum1903); srsx-26(yum1904); srsx-27(yum1905); srsx-28(yum1906); srsx-29(yum1907); srsx-30(yum1908),-0.03,0.88,0.15
+CHS 1154,srx-116(yum1909); srx-117(yum1910); srx-118(yum1911); srx-119(yum1912); srx-120(yum1913); srx-121(yum1914); srx-122(yum1915),-0.03,0.51,-0.06
+CHS 1155,str-32(yum1916); str-37(yum1917); str-38(yum1918); str-39(yum1919); str-40(yum1920); str-41(yum1921),0.02,-0.50,-0.10
+CHS 1156,srw-84(yum1922); srw-85(yum1923); c25f9.13(yum1924); srw-86(yum1925); srw-87(yum1926); srw-88(yum1927),0.07,-0.75,-0.08
+CHS 1157,npr-1(yum1928); npr-2(yum1929); npr-3(yum1930); npr-4(yum1931);  npr-5(yum1932); npr-10(yum1933),-0.96,12.68,-0.36
+CHS 1158,srw-66(yum1935); srw-67(yum1936); srw-68(yum1937); srw-69(yum1938); srw-71(yum1939); srw-73(yum1940),0.12,-0.65,0.03
+CHS 1159,srh-135(yum1941); srh-136(yum1942); srh-137(yum1943); srh-138(yum1944); srh-139(yum1945); srh-140(yum1946); srh-141(yum1947); srh-142(yum1948); srh-145(yum1949),0.03,-0.30,0.12
+CHS 1160,e04d5.2(yum1950); c54d10.5(yum1951); t11f9.1(yum1952); y41d4b.24(yum1953);  f32d8.10(yum1954); y37e11al.1(yum1955),0.03,-0.53,-0.02
+CHS 1161,y6e2a.1(yum1956); c03h5.7(yum1957); k10c9.4(yum1958); c03h5.9(yum1959); t01g5.6(yum1960),0.05,-0.69,-0.07
+CHS 1162,srv-11(yum1961); srv-12(yum1962); srv-13(yum1963); srv-14(yum1964); srv-15(yum1965); srv-16(yum1966),-0.03,0.07,-0.02
+CHS 1163,srh-128(yum1967); srh-129(yum1968); srh-130(yum1969); srh-131(yum1970); srh-132(yum1971); srh-133(yum1972); srh-134(yum1973),-0.06,1.72,0.12
+CHS 1164,srx-73(yum1974); srx-74(yum1975); srx-76(yum1976); srx-77(yum1977); srx-78(yum1978); srx-80(yum1979); srx-82(yum1980),-0.02,0.12,0.02
+CHS 1165,c30g7.5(yum1981); f41h8.1(yum1982); f41h8.2(yum1983); k09c6.10(yum1984); r13d11.1(yum1985); r13d11.3(yum1986),-0.09,0.53,-0.05
+CHS 1166,str-78(yum1987); str-79(yum1988); str-81(yum1989); str-82(yum1990); str-83(yum1991),0.01,0.03,-0.05
+CHS 1167,dmsr-9(yum1992); dmsr-10(yum1993); dmsr-11(yum1994); dmsr-12(yum1995); dmsr-13(yum1996); dmsr-14(yum1997); dmsr-15(yum1998); dmsr-16(yum1999),-0.04,1.15,-0.12
+CHS 1168,srh-264(yum2000); srh-265(yum2001); srh-266(yum2002); srh-257(yum2003); srh-258(yum2004); srh-268(yum2005),-0.01,0.34,0.02
+CHS 1169,srd-10(yum2006); srd-11(yum2007); srd-12(yum2008); srd-13(yum2009); srd-15(yum2010); srd-16(yum2011),-0.01,0.15,0.04
+CHS 1170,srz-63(yum2012); srz-64(yum2013); srz-66(yum2014); srz-67(yum2015); srz-90(yum2016); srz-91(yum2017),-0.03,0.49,0.02
+CHS 1171,srx-84(yum2018); srx-85(yum2019); srx-86(yum2020); srx-87(yum2021); srx-88(yum2022); srx-90(yum2023); srx-92(yum2024); srx-93(yum2025),0.04,0.41,0.09
+CHS 1172,str-14(yum2026); str-15(yum2027); str-16(yum2028); str-13(yum2029); str-18(yum2030); str-19(yum2031); str-20(yum2032); str-23(yum2033); str-25(yum2034); f22b8.3(yum2035),-0.03,0.38,-0.10
+CHS 1173,odr-10(yum2055),-0.08,0.55,0.01
+CHS 1174,t26h8.5(yum2036); c31b8.16(yum2037),-0.01,0.40,-0.13
+CHS 1175,srg-46(yum2038); srg-47(yum2039); srg-48(yum2040); srg-50(yum2041); srg-51(yum2042); srg-53(yum2043); y54g2a.77(yum2044); y54g2a.38(yum2045); ah9.1(yum2046),-0.02,0.53,0.05
+CHS 1176,str-170(yum2047); str-171(yum2048); str-172(yum2049); str-173(yum2050); str-174(yum2051); str-175(yum2052); str-166(yum2053); y9c9a.5(yum2054),-0.03,0.28,0.05
+CHS 1177,srh-243(yum2056); srh-244(yum2057); srh-245(yum2058); srh-241(yum2059); srh-246(yum2060),-0.05,0.85,-0.09
+CHS 1178,aex-2(yum2061); aexr-1(yum2062); aexr-2(yum2063); aexr-3(yum2064),-0.09,0.92,-0.47
+CHS 1179,f49c5.9(yum2065); c11h1.2(yum2066); y75b8a.16(yum2067); y62h9a.1(yum2068),0.02,-0.06,-0.29
+CHS 1180,srw-23(yum2069); srw-24(yum2070); srw-26(yum2071); srw-29(yum2072); srw-31(yum2073); srw-32(yum2074),-0.09,2.62,-0.05
+CHS 1181,sra-33(yum2076); sra-34(yum2077); sra-35(yum2078); sra-36(yum2079); sra-37(yum2080); sra-38(yum2081); sra-39(yum2082); k11e4.6(yum2083),0.01,-0.16,0.14
+CHS 1182,str-196(yum2084); str-198(yum2085); str-199(yum2086); str-200(yum2087); str-204(yum2088); str-205(yum2089); str-193(yum2090); str-2(yum2091); str-3(yum2092),-0.09,2.57,-0.08
+CHS 1183,str-185(yum2093); str-188(yum2094); str-187(yum2095); str-190(yum2096); str-178(yum2097); y116a8c.40(yum2098),0.03,-0.30,-0.11
+CHS 1184,f40g9.15(yum2099); c35d6.13(yum2100); f47d2.11(yum2101); zk218.4(yum2102); zc132.3(yum2103); zc132.11(yum2104),-0.08,1.17,0.07
+CHS 1185,f49e11.2(yum2105); f57c9.6(yum2106); zc266.1(yum2107),0.05,-0.38,0.04
+CHS 1186,srd-63(yum2108); srd-64(yum2108); srd-65(yum2110); srd-66(yum2111); srd-67(yum2112); srd-68(yum2113); srd-69(yum2114); srd-70(yum2115); srd-74(yum2116),-0.05,0.89,-0.01
+CHS 1187,srx-16(yum2117); srx-17(yum2118); srx-18(yum2119); srx-20(yum2120); srx-21(yum2121); srx-22(yum2122); srx-23(yum2123),-0.05,0.79,-0.03
+CHS 1188,srw-1(yum2124); srw-2(yum2125); srw-3(yum2126); srw-4(yum2127); srw-6(yum2128); srw-7(yum2129); srw-8(yum2130),0.03,0.10,0.01
+CHS 1189,str-138(yum2131); str-139(yum2132); str-140(yum2133); str-143(yum2134); str-144(yum2135),0.05,-0.42,0.05
+CHS 1190,srd-1(yum2136); srd-2(yum2137); srd-3(yum2138); srd-4(yum2139); srd-5(yum2140); srd-7(yum2141); srd-8(yum2142); srd-9(yum2143),-0.01,-0.05,0.01
+CHS 1191,srw-127(yum2144); srw-129(yum2145); srw-136(yum2146);  srw-133(yum2147); srw-134(yum2148); srw-144(yum2149); srw-145(yum2150),0.05,-0.41,-0.01
+CHS 1192,srg-10(yum2151); srg-13(yum2152); srg-20(yum2153); srg-21(yum2154); srg-22(yum2155); srg-23(yum2156); srg-24(yum2157),0.01,0.03,0.02
+CHS 1193,sri-40(yum2158); sri-42(yum2159); sri-43(yum2160); sri-45(yum2161); sri-46(yum2162); sri-47(yum2163); sri-48(yum2164),-0.01,0.09,-0.02
+CHS 1194,f36d4.4(yum2165); zk721.4(yum2166); b0334.6(yum2167); c09f12.3(yum2168); f13h6.5(yum2169); b0244.6(yum2170),-0.03,0.33,-0.03
+CHS 1195,y52b11a.11(yum2171),0.01,-0.25,0.00
+CHS 1196,srd-23(yum2172); srd-25(yum2173); srd-26(yum2174); srd-27(yum2175); srd-28(yum2176); srd-29(yum2177); srd-30(yum2178); srd-31(yum2179),0.03,-0.48,0.00
+CHS 1197,y62h9a.10(yum2180); y40b10a.5(yum2181); c30b5.7(yum2182); f09c12.6(yum2183); r02d5.6(yum2184),0.01,-0.09,0.09
+CHS 1198,srv-1(yum2185); srv-2(yum2186); srv-3(yum2187); srv-4(yum2188); srv-17(yum2189); srv-19(yum2190); srv-21(yum2191); srv-22(yum2192); srv-34(yum2193),-0.01,0.08,0.06
+CHS 1199,srw-130(yum2194); srw-139(yum2195); srw-140(yum2196); srw-141(yum2197); srw-142(yum2198); srw-143(yum2199),0.07,-0.53,-0.01
+CHS 1200,srd-53(yum2200); srd-54(yum2201); srd-55(yum2202); srd-56(yum2203); srd-58(yum2204); srd-59(yum2205),0.03,-0.34,-0.04
+CHS 1201,str-43(yum2206); str-44(yum2207); str-45(yum2208); str-46(yum2209); str-47(yum2210); str-48(yum2211); str-38(yum2212),-0.04,0.76,-0.16
+CHS 1202,sre-26(yum2213); sre-27(yum2214); sre-28(yum2215); sre-32(yum2216); sre-33(yum2217); sre-49(yum2218),-0.01,0.15,0.06
+CHS 1203,t27e7.9(yum1046); t27e7.4(yum1047); t27e7.5(yum1048); t27e7.3(yum1049),0.01,-0.13,0.07
+CHS 1204,t03e6.9(yum2219); t03e6.8(yum2220); y37h2c.4(yum2221); c53d6.11(yum2222); w06g6.15(yum2223); y70c5b.2(yum2224),-0.05,0.82,0.07
+CHS 1205,srw-56(yum2225); srw-57(yum2226); srw-59(yum2227); srw-60(yum2228); srw-61(yum2229); srw-62(yum2230); srw-63(yum2231),-0.07,2.09,0.02
+CHS 1206,srt-19(yum2232); srt-20(yum2233); srt-22(yum2234); srt-15(yum2235); srt-16(yum2236); srt-17(yum2237); srt-18(yum2238); srt-23(yum2239); srt-24(yum2240); srt-59(yum2241); y55f3c.10(yum2242),-0.01,0.27,0.06
+CHS 1207,dcar-1(yum2244); pcdr-1(yum2245); d2023.1(yum2246); gtr-1(yum2247),-0.04,0.90,-0.11
+CHS 1208,srw-33(yum2248); srw-34(yum2249); srw-35(yum2250); srw-36(yum2251); srw-38(yum2252); srw-39(yum2253),-0.04,0.65,0.05
+CHS 1209,f57g9.7(yum2254); r05f9.7(yum2255); c54c6.4(yum2256); r11g10.3(yum2257); f27e5.5(yum2258); f27e5.8(yum2259); t10g3.2(yum2260),-0.01,0.10,-0.02
+CHS 1210,srsx-1(yum2261); srsx-2(yum2262); srsx-3(yum2263); srsx-5(yum2264); srsx-6(yum2265); srsx-7(yum2266),0.03,-0.30,0.04
+CHS 1211,srd-45(yum2267); srd-46(yum2268); srd-47(yum2269); srd-48(yum2270); srd-50(yum2271); srd-51(yum2272),-0.09,1.54,-0.04
+CHS 1212,gnrr-1(yum2273); gnrr-2(yum2274); gnrr-3(yum2275); gnrr-4(yum2276); gnrr-5(yum2277); gnrr-6(yum2278); gnrr-7(yum2279),-0.04,0.80,0.06
+CHS 1213,str-85(yum2280); str-86(yum2281); str-87(yum2282); str-84(yum2283); str-88(yum2284); str-89(yum2285); str-90(yum2286); str-92(yum2287); str-93(yum2288); str-94(yum2289); str-264(yum2290),-0.04,0.57,-0.12
+CHS 1214,sre-7(yum2291); sre-8(yum2292); sre-9(yum2293); sre-10(yum2294); sre-11(yum2295); sre-12(yum2296),0.05,-0.32,-0.15
+CHS 1215,sre-20(yum2297); sre-21(yum2298); sre-22(yum2299); sre-23(yum2300);  sre-24(yum2301); sre-51(yum2302),-0.02,0.27,-0.16
+CHS 1216,srbc-58(yum2303); srbc-59(yum2304); srbc-60(yum2305); srbc-64(yum2306); srbc-66(yum2307),-0.07,1.84,-0.01
+CHS 1217,sru-16(yum2308); sru-17(yum2309); sru-18(yum2310); sru-19(yum2311); sru-20(yum2312); sru-42(yum2313),0.07,-0.75,0.02
+CHS 1218,sru-21(yum2314); sru-22(yum2315); sru-23(yum2316); sru-24(yum2317); sru-25(yum2318); sru-26(yum2319); sru-27(yum2320); sru-28(yum2321),0.00,0.05,-0.15
+CHS 1219,srw-40(yum2322); srw-41(yum2323); srw-42(yum2324); srw-43(yum2325); srw-44(yum2326); srw-48(yum2327),0.02,-0.25,0.07
+CHS 1220,srm-1(yum2328); srm-2(yum2329);  srm-3(yum2330);  srm-4(yum2331);  srm-5(yum2332);  srm-6(yum2333);  srn-1(yum2334),-0.03,0.62,-0.10
+CHS 1221,str-247(yum2335); str-248(yum2336); str-263(yum2337); str-249(yum2338); str-246(yum2339); str-252(yum2340),0.01,-0.17,-0.04
+CHS 1222,f27e5.8(yum2341); t10g3.4(yum2342); t10g3.2(yum2343); y57g11c.46(yum2344); y57g11c.28(yum2345),-0.08,0.95,0.17
+CHS 1223,f38e1.6(yum2346); f09c6.16(yum2347); k01a6.6(yum2348); dop-6(yum2349); c24a8.6(yum2350),-0.32,2.92,0.14
+CHS 1224,srz-10(yum2351); srz-11(yum2352); srz-12(yum2353); srz-13(yum2354); srz-14(yum2355); srz-15(yum2356),-0.03,0.45,0.13
+CHS 1225,srw-89(yum2357); srw-90(yum2358); srw-91(yum2359); srw-94(yum2360); srw-95(yum2361); srw-97(yum2362); srw-98(yum2363),-0.08,0.68,-0.03
+CHS 1226,srxa-12(yum2364); srxa-13(yum2365); srxa-14(yum2366); srxa-15(yum2367); srxa-16(yum2368); srxa-18(yum2369),-0.05,0.53,0.02
+CHS 1227,srbc-40(yum2370); srbc-41(yum2371); srbc-43(yum2372); srbc-44(yum2373); srbc-45(yum2374); srbc-48(yum2375); srbc-49(yum2376),0.03,-0.39,-0.06
+CHS 1228,srx-95(yum2377); srx-96(yum2378); srx-97(yum2379); srx-98(yum2380),-0.08,0.36,-0.13
+CHS 1229,sru-1(yum2381); sru-2(yum2382); sru-3(yum2383); sru-4(yum2384); sru-6(yum2385); sru-8(yum2386),0.07,-0.65,-0.01
+CHS 1230,srb-6(yum2387); srb-7(yum2388); srb-8(yum2389); srb-11(yum2390); srb-15(yum2391); srb-16(yum2392); srb-17(yum2393); srb-18(yum2394); srb-19(yum2395),-0.06,0.78,-0.16
+CHS 1231,str-206(yum2396); str-207(yum2397); str-208(yum2398); str-209(yum2399); str-211(yum2400); str-214(yum2401),0.01,0.13,-0.02
+CHS 1232,srx-114(yum2402); srx-115(yum2403); srx-125(yum2404); srx-128(yum2405); srx-129(yum2406); srx-131(yum2407); srx-136(yum2408),-0.03,0.65,-0.11
+CHS 1233,str-229(yum2409); str-230(yum2410); str-231(yum2411); str-232(yum2412); str-233(yum2413); str-236(yum2414); c06b3.1(yum2415),-0.04,0.63,-0.07
+CHS 1234,sra-2(yum2416); sra-3(yum2417); sra-4(yum2418); sra-6(yum2419); sra-7(yum2420); sra-8(yum2421); sra-9(yum2422),-0.07,0.94,0.07
+CHS 1235,srv-24(yum2423); srv-25(yum2424); srv-26(yum2425); srv-27(yum2426); srv-28(yum2427); srv-29(yum2428); srv-30(yum2429); srv-31(yum2430); srv-32(yum2431); ops-1(yum2432),-0.03,0.55,0.03
+CHS 1236,sri-66(yum2433); sri-67(yum2434); sri-69(yum2435); sri-70(yum2436); sri-71(yum2437); sri-72(yum2438); sri-73(yum2439); sri-74(yum2440); sri-77(yum2441); y61b8a.6(yum2442),-0.05,0.69,0.01
+CHS 1237,sri-10(yum2443); sri-11(yum2444); sri-12(yum2445); sri-13(yum2446); sri-14(yum2447); sri-15(yum2448); sri-16(yum2449); sri-17(yum2450); sri-6(yum2451); sri-7(yum2452); sri-9(yum2453),0.04,-0.35,0.31
+CHS 1238,f07b10.4(yum2454); f07b10.7(yum2455); f59b1.6(yum2456); zk418.7(yum2457); w08g11.5(yum2458); r10e8.5(yum2459); zk418.6(yum2460),0.05,-1.00,0.00
+CHS 1239,srz-94(yum2461); srz-95(yum2462); srz-96(yum2463); srz-97(yum2464); srz-99(yum2465); srz-100(yum2466); srz-101(yum2467); srz-102(yum2468); srz-103(yum2469),-0.02,1.14,0.02
+CHS 1240,t01d1.5(yum2470); zk1307.7(yum2471); f59b1.4(yum2472); f18e3.10(yum2473); f07c3.16(yum2474); f45e10.2(yum2475);f59b1.6(yum2476); y32h12a.1(yum2477),0.08,-0.45,0.14
+CHS 1241,srd-40(yum2478); srd-41(yum2479); srd-42(yum2480); srd-43(yum2481); srd-44(yum2482); srd-49(yum2483),0.06,-0.37,0.03
+CHS 1242,srx-56(yum2484); srx-58(yum2485); srx-60(yum2486); srx-62(yum2487); srx-63(yum2488); srx-65(yum2489); srx-66(yum2490); srx-67(yum2491); srx-68(yum2492),-0.03,0.48,0.04
+CHS 1243,srh-185(yum2493); srh-186(yum2494); srh-187(yum2495); srh-190(yum2496); srh-192(yum2497); srh-193(yum2498); srh-194(yum2499); srh-195(yum2500); srh-199(yum2501); srh-200(yum2502); srh-201(yum2503); srh-203(yum2504); srh-204(yum2505); srh-206(yum2506); srh-207(yum2507); srh-208(yum2508); srh-209(yum2509),0.05,-0.27,0.01
+CHS 1244,srh-231(yum2510); srh-233(yum2511); srh-234(yum2512); srh-235(yum2513); srh-236(yum2514); srh-237(yum2515); srh-239(yum2516); srh-240(yum2517),-0.12,2.25,0.05
+CHS 1245,srx-130(yum2518); srx-133(yum2519); srx-134(yum2520); srx-135(yum2521); srx-137(yum2522),0.02,-0.17,0.00
+CHS 1246,srbc-75(yum2851); srbc-76(yum2852); srbc-77(yum2853); srbc-78(yum2854); srbc-79(yum2855); srbc-82(yum2856); srbc-83(yum2857); srbc-84(yum2858); srbc-81(yum2859); y19d10a.17(yum2860),0.04,-0.31,-0.11
+CHS 1247,srh-10(yum2523); srh-15(yum2524); srh-16(yum2525); srh-18(yum2526); srh-17(yum2527); srh-11(yum2528); srh-20(yum2529); srh-21(yum2530); srh-22(yum2531); srh-23(yum2532); srh-19(yum2533),-0.02,0.68,0.06
+CHS 1248,str-255(yum2534); str-256(yum2535); str-257(yum2536); str-260(yum2537); str-254(yum2538); str-261(yum2539); str-262(yum2540); y19d10a.1(yum2541);  str-258(yum2542); y19d10a.2(yum2543),-0.03,0.51,-0.07
+CHS 1249,sri-33(yum2544); sri-34(yum2545); sri-36(yum2546); sri-32(yum2547); sri-37(yum2548); sri-38(yum2549); sri-39(yum2550); sri-40(yum2551),0.06,-0.37,0.04
+CHS 1250,srz-1(yum2552); srz-3(yum2553); srz-4(yum2554); srz-5(yum2555); srz-6(yum2556); srz-8(yum2557); srz-9(yum2558),-0.02,0.68,0.03
+CHS 1251,srbc-21(yum2559); srbc-22(yum2560); srbc-23(yum2561); srbc-24(yum2562); srbc-25(yum2563); srbc-26(yum2564); srbc-27(yum2565); srbc-42(yum2566),0.02,-0.50,-0.01
+CHS 1252,t10h9.1(yum2567); zc443.7(yum2568); y57a10c.10(yum2569); w05h5.1(yum2570); y57a10c.8(yum2571); f38h12.5(yum2572); y57a10c.9(yum2573); dct-12(yum2574),0.03,-0.74,0.06
+CHS 1253,srw-99(yum2575); srw-100(yum2576); srw-101(yum2577); srw-102(yum2578); srw-103(yum2579); srw-107(yum2580); srw-109(yum2581),0.02,-0.08,-0.10
+CHS 1254,str-119(yum2582); str-121(yum2583); y45g12c.10(yum2585); str-120(yum2586); y45g12c.6(yum2587),-0.01,0.04,0.06
+CHS 1255,str-217(yum2588); c55a1.1(yum2589); str-220(yum2590); str-221(yum2591); str-222(yum2592); str-225(yum2594); str-226(yum2595); str-227(yum2596); str-228(yum2597),0.00,0.02,-0.09
+CHS 1256,dop-1(yum2598); dop-2(yum2599); dop-3(yum2600); dop-4(yum2601); dop-5(yum2602); c24a8.6(yum2603); dop-6(yum2604); ser-6(yum2605),-0.23,1.66,-0.26
+CHS 1257,srg-25(yum2606); srg-26(yum2607); srg-27(yum2607); srg-28(yum2608); srg-29(yum2609); srg-30(yum2610),0.10,-0.71,0.04
+CHS 1258,str-27(yum2611); str-28(yum2612); str-30(yum2613); str-31(yum2614); str-33(yum2615); str-35(yum2616),0.06,-0.41,-0.11
+CHS 1259,srh-288(yum2617); srh-289(yum2618); srh-290(yum2619); srh-286(yum2620); srh-287(yum2621); srh-291(yum2622); srh-292(yum2623); srh-293(yum2624); srh-295(yum2625); srh-296(yum2626); srh-297(yum2627); srh-298(yum2628); srh-299(yum2629); srh-300(yum2630); srh-301(yum2631); srh-303(yum2632); srh-304(yum2633),0.02,-0.25,-0.06
+CHS 1260,srw-9(yum2634); srw-10(yum2635); srw-11(yum2636); srw-12(yum2637); srw-13(yum2638); srw-14(yum2639); srw-15(yum2640),-0.01,0.32,-0.01
+CHS 1261,c15h9.3(yum2641); r13a5.15(yum2642); r11f4.2(yum2643); k01a12.3(yum2644); t22c8.1(yum2645); r02d5.6(yum2646),0.04,-0.25,0.00
+CHS 1262,srt-42(yum2647); srt-43(yum2648); srt-44(yum2649); srt-45(yum2650); srt-47(yum2651); srt-48(yum2652); srt-49(yum2653); srt-50(yum2654); srt-52(yum2655); srt-53(yum2656); y57g11c.28(yum2657); y57g11c.30(yum2658),-0.02,0.25,0.06
+CHS 1263,srbc-29(yum2659); srbc-30(yum2660); srbc-31(yum2661); srbc-32(yum2662); srbc-33(yum2663); srbc-34(yum2664); srbc-36(yum2665); srbc-37(yum2666); srbc-38(yum2667); srbc-39(yum2668),0.00,0.09,0.17
+CHS 1264,sri-39(yum1035); sri-50(yum1036); sri-51(yum1037); sri-53(yum1038); y27f2a.10(yum1039); zk105.8(yum1040); y27f2a.11(yum1041),-0.02,0.14,0.04
+CHS 1265,str-3(yum1042); str-4(yum2669); str-5(yum2670); str-1(yum2671); str-6(yum2672); str-7(yum2673); str-9(yum2674); c04c3.7(yum2675); str-8(yum2676); t23d5.8(yum2677),0.13,-1.00,-0.01
+CHS 1266,c31b8.1(yum2861); y70c5a.2(yum2862); w02h5.16(yum2863); w02h5.11(yum2864); f18e9.8(yum2865); m03f8.7(yum2866); y70c5a.4(yum2867); m01d7.9(yum2868); w06g6.15(yum2869); y70c5b.2(yum2870),0.00,0.00,-0.05
+CHS 1267,tag-293(yum2678); c29f9.9(yum2679); c39b10.1(yum2680); c44b9.2(yum2681); zc132.9(yum2682),-0.06,0.55,0.01
+CHS 1268,srh-113(yum2683); srh-115(yum2684); srh-116(yum2685); srh-118(yum2686); srh-119(yum2687); srh-120(yum2688); srh-122(yum2689); srh-123(yum2690); srh-95(yum2691); srh-97(yum2692); srh-99(yum2693); srh-100(yum2694); srh-102(yum2695); srh-104(yum2696); srh-105(yum2697); srh-109(yum2698); srh-111(yum2699); srh-112(yum2700),-0.05,0.62,0.01
+CHS 1269,srb-1(yum2701); srb-2(yum2702); srb-3(yum2703); srb-5(yum2704); srb-12(yum2705); srb-13(yum2706),-0.04,0.50,0.10
+CHS 1270,sri-57(yum2707); sri-61(yum2708); sri-62(yum2709); sri-63(yum2710); sri-65(yum2711); sri-78(yum2712); sri-54(yum2713); sri-60(yum2714); y27f2a.11(yum2715),0.01,0.10,0.37
+CHS 1271,srh-166(yum2716); srh-167(yum2717); srh-169(yum2718); srh-146(yum2719); srh-147(yum2720); srh-148(yum2721); srh-149(yum2722); srh-154(yum2723); srh-159(yum2724); srh-170(yum2725); srh-171(yum2726); srh-172(yum2727); srh-173(yum2728); srh-174(yum2729); srh-177(yum2730); srh-178(yum2731); srh-179(yum2732); srh-180(yum2733); srh-181(yum2734); srh-182(yum2735); srh-183(yum2736); srh-184(yum2737); srh-308(yum2738),0.00,0.18,0.06
+CHS 1272,srbc-1(yum2739); srbc-2(yum2740); srbc-3(yum2741); srbc-5(yum2742); srbc-6(yum2743); srbc-7(yum2744); srbc-8(yum2745); srbc-9(yum2746); srbc-10(yum2747); srbc-11(yum2748),0.02,-0.12,0.11
+CHS 1273,srh-74(yum2749); srh-75(yum2750); srh-76(yum2751); srh-78(yum2752); srh-79(yum2753); srh-80(yum2754); srh-82(yum2755); srh-83(yum2756); srh-85(yum2757); srh-87(yum2758); srh-88(yum2759),0.05,-0.47,-0.13
+CHS 1274,srh-24(yum2760); srh-25(yum2761); srh-27(yum2762); srh-28(yum2763); srh-30(yum2764); srh-31(yum2765); srh-32(yum2766); srh-46(yum2767); srh-47(yum2768),-0.02,0.25,0.07
+CHS 1275,mgl-1(yum2769); mgl-2(yum2770); mgl-3(yum2771); c30a5.10(yum2772); f35h10.10(yum2773),0.02,0.02,0.03
+CHS 1276,str-123(yum2774); str-124(yum2775); str-125(yum2776); str-129(yum2777); str-130(yum2778); str-131(yum2779); str-134(yum2780); str-135(yum2781); str-136(yum2782); str-145(yum2783); t06c12.11(yum2784),-0.01,0.16,-0.15
+CHS 1277,srt-27(yum2785); srt-28(yum2786); srt-29(yum2787); srt-30(yum2788); srt-31(yum2789); srt-32(yum2790); srt-33(yum2791); srt-34(yum2792); srt-74(yum2793); srt-35(yum2794); srt-36(yum2795); srt-37(yum2796); srt-38(yum2797); srt-39(yum2798); srt-40(yum2799); srt-41(yum2800),0.02,-0.25,0.07
+CHS 1278,str-63(yum2801); str-64(yum2802); str-66(yum2803); str-61(yum2804); str-67(yum2805); str-68(yum2806); str-69(yum2807); c41g6.12(yum2808); str-52(yum2810); str-60(yum2811); str-71(yum2812); str-73(yum2813); str-74(yum2814); str-77(yum2815); f22f7.12(yum2816); str-76(yum2817); str-265(yum2818),0.02,0.02,0.08
+CHS 1590,c27h5.6(yum2827); c50e3.7(yum2828); y75b8a.34(yum2829); c50e3.9(yum2830); f42a6.1(yum2831); y55h10a.2(yum2832),-0.02,0.13,0.01
+CHS 1591,f54e2.5(yum2833); c34b4.5(yum2834); f54e2.9(yum2835); f57b1.1(yum2836); f57b1.9(yum2837); f58f6.5(yum2838); f58f6.6(yum2839); t09e8.4(yum2840); y51a2b.2(yum2841); zc196.8(yum2842); zc196.9(yum2843),-0.08,0.48,0.10
+CHS 1592,h20j04.7(yum2844); k03h6.4(yum2845); r13h4.7(yum2846); c34b4.3(yum2847); t23b3.6(yum2848); y26g10.1(yum2849); y26g10.4(yum2850),-0.02,0.13,0.06
+CHS 1680,srtx-1(yum2906),0.06,-0.32,0.09
+CHS 1681,tpra-1(yum2907),0.04,-0.22,0.04
+CHS 10010,ins-10(yum413); ins-19(yum414); ins-35(yum476); ins-36(yum477),-0.02,0.40,0.02
+CHS 10025,ins-26(yum386); ins-32(yum387); ins-9(yum486); ins-13(yum487),-0.04,0.82,-0.03
+CHS 10046,ins-3(yum384); ins-21(yum385); ins-22(yum407); ins-23(yum456),-0.05,0.42,-0.07
+CHS 10057,ins-25(yum388); ins-28(yum389); ins-5(yum409); ins-29(yum410); ins-27(yum455),-0.03,0.57,0.09
+CHS 10062,ins-17(yum493); ins-18(yum494); ins-16(yum495); ins-37(yum496),-0.06,1.28,0.06
+CHS 10073,ins-2(yum391); ins-34(yum392); ins-12(yum428); ins-15(yum429); ins-11(yum508),0.03,-0.30,0.00
+CHS 10081,ins-14(yum402); ins-31(yum408); ins-39(yum444); ins-1(yum497),-0.01,0.37,-0.11
+CHS 10118,ins-20(yum382); ins-30(yum383); daf-28(yum514); ins-24(yum515); ins-33(yum534),-0.11,1.03,0.05
+CHS 10080,ins-4(yum390); ins-6(yum411); ins-7(yum412); ins-8(yum521),0.02,-0.16,-0.01
+CHS 10009,flp-12(yum400); flp-21(yum401); flp-5(yum422); flp-24(yum423); flp-28(yum475),-0.29,2.12,-0.30
+CHS 10032,flp-1(yum393); flp-23(yum394); flp-14(yum423); flp-25(yum424),-0.08,1.45,0.02
+CHS 10085,flp-10(yum472); flp-27(yum473); flp-34(yum395); flp-11(yum509),0.01,0.17,-0.05
+CHS 10034,flp-3(yum396); flp-6(yum397); flp-13(yum430); flp-18(yum431),-0.18,3.10,-0.17
+CHS 10033,flp-4(yum398); flp-15(yum399); flp-2(yum421); flp-16(yum422),-0.07,1.00,-0.12
+CHS 10006,flp-7(yum436); flp-9(yum437); flp-17(yum405); flp-22(yum406),-0.01,0.32,0.05
+CHS 10063,flp-20(yum403); flp-32(yum404); flp-19(yum457); flp-33(yum498); flp-26(yum499),0.02,-0.26,0.11
+CHS 10011,nlp-19(yum425); nlp-62(yum426); ntc-1(yum478); nlp-64(yum479),-0.01,0.32,0.13
+CHS 10148,nlp-66(yum427); nlp-11(yum480); nlp-54(yum535); nlp-79(yum536),-0.01,0.10,-0.01
+CHS 10013,nlp-16(yum432); nlp-55(yum433); nlp-8(yum481); nlp-61(yum482),0.01,0.12,0.17
+CHS 10084,nlp-20(yum440); nlp-43(yum441); msrp-7(yum506); lury-1(yum507),-0.06,1.25,0.08
+CHS 10103,nlp-5(yum449); nlp-10(yum450); nlp-2(yum488); nlp-50(yum531),-0.03,0.64,0.04
+CHS 10040,nlp-4(yum451); nlp-80(yum452); nlp-18(yum489); nlp-42(yum490),0.01,-0.09,-0.05
+CHS 10065,nlp-1(yum551); nlp-38(yum552); nlp-3(yum553); nlp-13(yum554),-0.01,0.37,-0.01
+CHS 10110,nlp-41(yum501); nlp-45(yum502); nlp-17(yum528); nlp-77(yum529),-0.03,0.31,-0.01
+CHS 10089,nlp-70(yum464); nlp-76(yum510); nlp-36(yum511),-0.02,0.85,0.04
+CHS 10092,nlp-23(yum469); nlp-59(yum470); nlp-35(yum523); pdf-2(yum524),0.06,-0.20,0.07
+CHS 10109,nlp-21(yum445); nlp-69(yum446); nlp-73(yum505); pdf-1(yum527),-0.02,1.25,-0.07
+CHS 10093,nlp-34(yum419); nlp-33(yum503); nlp-27(yum504); nlp-25(yum520),-0.03,0.61,-0.05
+CHS 10149,nlp-12(yum458); nlp-39(yum500); capa-1(yum522); nlp-6(yum537),0.02,-0.08,0.35
+CHS 10088,nlp-60(yum462); nlp-68(yum463); nlp-67(yum538),0.07,-0.40,-0.29
+CHS 10119,nlp-58(yum465); nlp-15(yum512); nlp-14(yum513); nlp-47(yum539),0.00,-0.06,0.28
+CHS 10091,nlp-48(yum467); nlp-52(yum468); nlp-40(yum541); nlp-78(yum542),0.05,-0.10,-0.42
+CHS 10102,nlp-9(yum415); nlp-32(yum416); nlp-26(yum460); nlp-24(yum543),-0.10,1.65,-0.06
+CHS 10111,nlp-56(yum459); nlp-57(yum543); nlp-63(yum544); nlp-53(yum545),0.01,-0.07,0.06
+CHS 10095,nlp-49(yum417); nlp-51(yum418); nlp-22(yum461); nlp-46(yum546); nlp-71(yum547),-0.03,0.57,0.02
+CHS 10183,nlp-30(yum420); nlp-28(yum548); nlp-29(yum549); nlp-31(yum550),-0.02,0.85,-0.03
+CHS 1666,pdf-1(yum2897); pdf-2(yum2898),-0.49,2.875,-0.25

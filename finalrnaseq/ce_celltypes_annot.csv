@@ -1,0 +1,170 @@
+Cell,Description,SimpleDescription
+ADA,interneuron,interneuron
+ADE,sensory neuron,sensory neuron
+ADF,sensory neuron,sensory neuron
+ADL,sensory neuron,sensory neuron
+AFD,sensory neuron,sensory neuron
+AIA,interneuron,interneuron
+AIB,interneuron,interneuron
+AIM,interneuron,interneuron
+AIN,interneuron,interneuron
+AIY,interneuron,interneuron
+AIZ,interneuron,interneuron
+ALA,interneuron/sensory neuron,interneuron
+ALM,sensory neuron,sensory neuron
+ALN,sensory neuron,sensory neuron
+AMsh,other,other
+AMso,other,other
+Anal_muscle,other,other
+AQR,interneuron,interneuron
+Arcade_cell,other,other
+AS,motor neuron,motor neuron
+ASEL,sensory neuron,sensory neuron
+ASER,sensory neuron,sensory neuron
+ASG,sensory neuron,sensory neuron
+ASH,sensory neuron,sensory neuron
+ASI,sensory neuron,sensory neuron
+ASJ,sensory neuron,sensory neuron
+ASK,sensory neuron,sensory neuron
+AUA,interneuron,interneuron
+AVA,interneuron,interneuron
+AVB,interneuron,interneuron
+AVD,interneuron,interneuron
+AVE,interneuron,interneuron
+AVF,interneuron,interneuron
+AVG,interneuron,interneuron
+AVH,interneuron,interneuron
+AVJ,interneuron,interneuron
+AVK,interneuron,interneuron
+AVL,interneuron,interneuron
+AVM,sensory neuron,sensory neuron
+AWA,sensory neuron,sensory neuron
+AWB,sensory neuron,sensory neuron
+AWC_OFF,sensory neuron,sensory neuron
+AWC_ON,sensory neuron,sensory neuron
+BAG,sensory neuron,sensory neuron
+BDU,interneuron,interneuron
+Body_wall_muscle,other,other
+Body_wall_muscle_anterior,other,other
+CAN,unknown neuron,interneuron
+CEP,sensory neuron,sensory neuron
+CEPsh,sensory neuron,sensory neuron
+Coelomocyte,other,other
+DA,motor neuron,motor neuron
+DA9,motor neuron,motor neuron
+DB,motor neuron,motor neuron
+DB01,motor neuron,motor neuron
+Distal_tip_cell,other,other
+DVA,interneuron,interneuron
+DVB,interneuron,interneuron
+DVC,interneuron,interneuron
+Epidermis,other,other
+Excretory_cell,other,other
+Excretory_gland_cell,other,other
+FLP,sensory neuron,sensory neuron
+Germline,other,other
+Glia_1,other,other
+Glia_2,other,other
+Glia_3,other,other
+Glia_4,other,other
+Glia_5,other,other
+Gonadal_sheath_cell,other,other
+hmc,other,other
+HSN,motor neuron,motor neuron
+I1,interneuron,interneuron
+I2,interneuron,interneuron
+I3,interneuron,interneuron
+I4,interneuron,interneuron
+I5,interneuron,interneuron
+I6,interneuron,interneuron
+IL1,polymodal neuron,interneuron
+IL2_DV,sensory neuron,sensory neuron
+IL2_LR,sensory neuron,sensory neuron
+Intestine,other,other
+LUA,interneuron,interneuron
+M1,motor neuron,motor neuron
+M2,motor neuron,motor neuron
+M3,motor neuron,motor neuron
+M4,motor neuron,motor neuron
+M5,motor neuron,motor neuron
+Marginal_cell,other,other
+MC,motor neuron,motor neuron
+MI,motor neuron,motor neuron
+NSM,sensory neuron,sensory neuron
+OLL,sensory neuron,sensory neuron
+OLQ,sensory neuron,sensory neuron
+PDA,motor neuron,motor neuron
+PDB,motor neuron,motor neuron
+PDE,sensory neuron,sensory neuron
+PHA,sensory neuron,sensory neuron
+Pharyngeal_gland_cell,other,other
+Pharyngeal_muscle,other,other
+PHB,sensory neuron,sensory neuron
+PHC,sensory neuron,sensory neuron
+PHsh,sensory neuron,sensory neuron
+PHso,sensory neuron,sensory neuron
+PLM,sensory neuron,sensory neuron
+PLN,sensory neuron,sensory neuron
+PQR,sensory neuron,sensory neuron
+PVC,interneuron,interneuron
+PVD,sensory neuron,sensory neuron
+PVM,sensory neuron,sensory neuron
+PVN,interneuron and motor neuron,interneuron
+PVP,interneuron,interneuron
+PVQ,interneuron,interneuron
+PVR,interneuron,interneuron
+PVT,interneuron,interneuron
+PVW,interneuron,interneuron
+Rectal_gland,other,other
+RIA,interneuron,interneuron
+RIB,interneuron,interneuron
+RIC,interneuron,interneuron
+RID,interneuron,interneuron
+RIF,interneuron,interneuron
+RIG,interneuron,interneuron
+RIH,interneuron,interneuron
+RIM,interneuron,interneuron
+RIP,interneuron,interneuron
+RIR,interneuron,interneuron
+RIS,interneuron,interneuron
+RIV,interneuron,interneuron
+RIV_stressed,interneuron,interneuron
+RMD_DV,motor neuron,motor neuron
+RMD_LR,motor neuron,motor neuron
+RME_DV,motor neuron,motor neuron
+RME_LR,motor neuron,motor neuron
+RMF,motor neuron,motor neuron
+RMG,interneuron,interneuron
+RMH,motor neuron,motor neuron
+SAA,interneuron and motor neuron,interneuron
+SAB,interneuron and motor neuron,interneuron
+SDQ,not a typical cell annotation,other
+Seam_cell,other,other
+SIA,interneuron and motor neuron,interneuron
+SIB,interneuron and motor neuron,interneuron
+SMB,motor neuron,motor neuron
+SMD,motor neuron,motor neuron
+SMD_stressed,motor neuron,motor neuron
+Sperm,other,other
+Spermatheca,other,other
+Spermathecal-uterine_junction_or_uterine_toroid,other,other
+Unannotated,other,other
+Unknown_non_neuronal,other,other
+Unknown_non_neuronal_2,other,other
+Unknown_non-neuronal_3,other,other
+URA,motor and sensory neuron,motor neuron
+URB,interneuron,interneuron
+URX,sensory neuron,sensory neuron
+URY,sensory neuron,sensory neuron
+Uterine_cell,other,other
+VA,motor neuron,motor neuron
+VA12,motor neuron,motor neuron
+VB,motor and sensory neuron,motor neuron
+VB01,motor and sensory neuron,motor neuron
+VB02,motor and sensory neuron,motor neuron
+VC,motor neuron,motor neuron
+VC_4_5,motor neuron,motor neuron
+VD_DD,motor neuron,motor neuron
+Vulval_cells,other,other
+Vulval_muscle,other,other
+XXX,other,other
